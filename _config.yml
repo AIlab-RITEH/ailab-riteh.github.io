@@ -1,0 +1,63 @@
+# =========================
+# AI Laboratory Website Configuration
+# =========================
+
+# --- Basic site info ---
+title: "AILab-RITEH"
+description: "Artificial Intelligence Laboratory @ RITEH"
+baseurl: ""                    # leave empty unless your site is in a subfolder
+url: "https://ailab-riteh.github.io"
+
+# --- Theme selection ---
+# Use either a built-in or remote theme.
+# For simple start, use minima (default GitHub Pages theme)
+theme: minima
+# remote_theme: just-the-docs/just-the-docs  # uncomment if you later switch themes
+
+# --- Navigation (only works with some themes like minima) ---
+header_pages:
+  - index.md
+
+# --- Markdown engine ---
+markdown: kramdown
+
+kramdown:
+  input: GFM                   # GitHub Flavored Markdown
+  syntax_highlighter: rouge
+  math_engine: mathjax         # enables LaTeX-style maths (via MathJax)
+
+# --- Syntax highlighting ---
+highlighter: rouge
+
+# --- Build settings ---
+lsi: false                     # disable related posts (slow + unused)
+safe: true                     # disable unsafe plugins (required for GitHub Pages)
+incremental: false             # full rebuilds for consistency
+source: .                      # use root directory for source files
+
+# --- Gists (GitHub code snippets) ---
+gist:
+  noscript: false              # enable JS version of embedded gists
+
+# --- Exclude files/folders from build ---
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - README.md
+  - .gitignore
+
+# --- Plugins (GitHub Pages allows these by default) ---
+plugins:
+  - jekyll-feed               # generates RSS feed
+  - jekyll-seo-tag            # improves SEO metadata
+
+# --- Future-proof: Custom variables (you can use {{ site.institution }} in pages) ---
+institution: "Department of Computer Engineering, Faculty of Engineering, University of Rijeka"
+address: "Vukovarska 58, HR-51000, Rijeka, Croatia"
+
+# --- Deployment note ---
+# When using GitHub Pages:
+# 1. Go to Settings → Pages
+# 2. Set source: Deploy from branch → main → /(root)
+# 3. Site will appear at https://<username>.github.io/ai-lab-website/

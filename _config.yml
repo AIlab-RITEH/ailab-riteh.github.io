@@ -9,14 +9,20 @@ baseurl: ""                    # leave empty unless your site is in a subfolder
 url: "https://ailab-riteh.github.io"
 
 # --- Theme selection ---
-# Use either a built-in or remote theme.
-# For simple start, use minima (default GitHub Pages theme)
-theme: minima
-# remote_theme: just-the-docs/just-the-docs  # uncomment if you later switch themes
+# Minimal Mistakes theme - professional and highly customizable
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+# theme: minima
 
 # --- Navigation (only works with some themes like minima) ---
-header_pages:
-  - index.md
+# For Minimal Mistakes, navigation is defined here
+navigation:
+  main:
+    - title: "People"
+      url: /people/
+    - title: "Projects"
+      url: /projects/
+    - title: "Publications"
+      url: /publications/
 
 # --- Markdown engine ---
 markdown: kramdown
@@ -49,8 +55,70 @@ exclude:
 
 # --- Plugins (GitHub Pages allows these by default) ---
 plugins:
-  - jekyll-feed               # generates RSS feed
-  - jekyll-seo-tag            # improves SEO metadata
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+
+# --- Minimal Mistakes Theme Settings ---
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Author (appears in sidebar and footer)
+author:
+  name: "AILab-RITEH"
+  avatar: "/assets/images/ai_lab.png"
+  bio: "Artificial Intelligence Laboratory @ RITEH"
+  location: "Rijeka, Croatia"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:ivan.stajduhar@uniri.hr"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AIlab-RITEH"
+    - label: "RITEH"
+      icon: "fas fa-fw fa-link"
+      url: "https://riteh.uniri.hr/en/organisation/departments/department-computer-engineering/ailab-2/"
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/AIlab-RITEH"
+
+# Reading Files
+include:
+  - _pages
+
+# Collections (for organizing content)
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults for pages
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
 
 # --- Future-proof: Custom variables (you can use {{ site.institution }} in pages) ---
 institution: "Department of Computer Engineering, Faculty of Engineering, University of Rijeka"

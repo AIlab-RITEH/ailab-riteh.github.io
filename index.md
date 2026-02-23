@@ -5,7 +5,7 @@ permalink: /
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-bg.png
+  overlay_image: /assets/images/ai-bg.jpg
   actions:
     - label: "Learn More"
       url: "#about-our-research"

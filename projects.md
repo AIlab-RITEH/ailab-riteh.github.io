@@ -3,6 +3,12 @@ layout: single
 title: Projects
 permalink: /projects/
 classes: wide
+header:
+  overlay_color: "#5e616c"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/ai-light-bg.jpg
+excerpt: "Our research spans various areas of artificial intelligence, with particular focus on medical imaging, computer vision, and smart systems."
+
 
 # Featured Ongoing Projects
 featured_ongoing:
@@ -51,37 +57,31 @@ featured_completed:
       **Funding**: HAMAG-BICRO (KK.01.2.1.02.0303)
       
       [Click here to learn more](http://www.riteh.uniri.hr/znanost/istrazivanje-i-projekti/adria-smart-room/){: .btn .btn--info}
----
 
-Our research spans various areas of artificial intelligence, with particular focus on medical imaging, computer vision, and smart systems.
 
 ---
 
-## Featured Ongoing Projects
+## Ongoing Projects
 
 <div class="projects-featured">
 {% include feature_row id="featured_ongoing" %}
 </div>
 
-### Other Ongoing Projects
-
 - **SMART-HOTEL 360** (2025-2027)  
   AI-powered solutions for the hospitality industry  
   *Funding*: Ministry of Regional Development and EU Funds (IP.1.1.03.0160)
 
-- **Building a Multimodal Foundation Model for Medical Radiology** (2024-)  
+- **Building a Multimodal Foundation Model for Medical Radiology** (2024)  
   Development of cutting-edge multimodal foundation models for medical radiology  
   *Funding*: University of Rijeka grant (uniri-iskusni-tehnic-23-12 2947)
 
 ---
 
-## Featured Completed Projects
+## Completed Projects
 
 <div class="projects-featured">
 {% include feature_row id="featured_completed" %}
 </div>
-
-### Other Completed Projects
 
 - **Summer School on Image Processing (SSIP 2021)**  
   International summer school in image processing and computer vision  
@@ -102,10 +102,11 @@ Our research spans various areas of artificial intelligence, with particular foc
 
 ---
 
-## Open Source Contributions
+## Open Datasets
 
-We believe in open science and regularly release code and datasets:
+We contribute to open science by sharing datasets and code:
 
 - **[kneeMRI Dataset](https://zenodo.org/records/14789903)**: Medical imaging dataset for knee MRI analysis
+- **[GRAZPEDWRI-DX Dataset](https://figshare.com/articles/dataset/GRAZPEDWRI-DX/14825193)**: Pediatric wrist trauma X-ray dataset
 
-*More datasets and code available on our [GitHub](https://github.com/AIlab-RITEH)*
+*More code and resources available on [GitHub](https://github.com/AIlab-RITEH)*

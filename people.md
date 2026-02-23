@@ -1,7 +1,6 @@
 ---
 layout: single
-classes: wide
-title: People
+title: Our Team
 permalink: /people/
 
 # Faculty section
@@ -37,16 +36,16 @@ postdocs:
       
       [Contact](mailto:mateja.napravnik@riteh.uniri.hr)
 
-# PhD Students section
-phd_students:
+# Associates section
+associates:
   - image_path: /assets/images/people/krajci.png
     alt: "Mária Krajčí"
     title: "Mária Krajčí"
     excerpt: "PhD Student"
-  - image_path: /assets/images/people/skoki.png
-    alt: "Arian Skoki"
-    title: "Arian Skoki"
-    excerpt: "PhD Student"
+  # - image_path: /assets/images/people/skoki.png
+  #   alt: "Arian Skoki"
+  #   title: "Arian Skoki"
+  #   excerpt: "PhD Student"
   - image_path: /assets/images/people/mikulic.png
     alt: "Mateo Mikulić"
     title: "Mateo Mikulić"
@@ -59,9 +58,6 @@ phd_students:
     alt: "Teo Manojlović"
     title: "Teo Manojlović"
     excerpt: "PhD Student"
-
-# Research Associates section
-associates:
   - image_path: /assets/images/people/ilijanic.png
     alt: "Luka Ilijanić"
     title: "Luka Ilijanić"
@@ -75,8 +71,8 @@ research_equipment:
     title: "Maestral Workstation"
   - image_path: /assets/images/equipment/siroko.jpg
     url: /assets/images/equipment/siroko.jpg
-    alt: "Siroko Server"
-    title: "Siroko Server"
+    alt: "Široko Server"
+    title: "Široko Server"
 
 teaching_equipment:
   - image_path: /assets/images/equipment/bonaca.jpg
@@ -87,63 +83,56 @@ teaching_equipment:
     url: /assets/images/equipment/dobot.jpg
     alt: "Dobot"
     title: "Dobot"
-  - image_path: /assets/images/equipment/diddybot.jpg
-    url: /assets/images/equipment/diddybot.jpg
-    alt: "Bonaca Workstation"
-    title: "Bonaca Workstation"
-  - image_path: /assets/images/equipment/dobot.jpg
-    url: /assets/images/equipment/dobot.jpg
-    alt: "Dobot"
-    title: "Dobot"
+  - image_path: /assets/images/equipment/diddyborg.jpg
+    url: /assets/images/equipment/diddyborg.jpg
+    alt: "DiddyBorg"
+    title: "DiddyBorg"
+  - image_path: /assets/images/equipment/meta2.jpg
+    url: /assets/images/equipment/meta2.jpg
+    alt: "Meta2"
+    title: "Meta2"
 
 ---
 
-# Our Team
-
----
-
-## Faculty & Principal Investigators
-
+## Principal Investigators
+<div class="pis_feature_row">
 {% include feature_row id="faculty" type="left" %}
+</div>
 
 ---
 
 ## Postdoctoral Researchers
+<div class="postdocs_feature_row">
+  {% include feature_row id="postdocs" type="left" %}
+</div>
 
-{% include feature_row id="postdocs" type="left" %}
 
----
-
-## PhD Students
-
-{% include feature_row id="phd_students" %}
-
----
-
-## Research Associates
-
+## Associates & PhD Students
 {% include feature_row id="associates" %}
 
----
+
 
 ## Alumni
+### Former PhD students
+- **Dr. Arian Skoki** - Research and Teaching Assistant
 
 ### Former Postdoctoral Researchers
 - **Dr. Robert Baždarić** - Postdoctoral researcher
-
-### Former PhD Students
-- *Information to be updated*
 
 ---
 
 # Research Equpipment
 {% include gallery id="research_equipment" %}
 
+# Teaching Equpipment
+{% include gallery id="teaching_equipment" %}
+
 ---
 
 ## Collaborators
 
 We actively collaborate with researchers from:
-- Faculty of Mathematics and Physics, Ljubljana, Slovenia
+- [Medical University of Graz](https://www.medunigraz.at/en/) (MedUni Graz), Graz, Austria
+- [Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/en/), Ljubljana, Slovenia
 - Various European institutions through Erasmus+ programs
 - Industry partners in hospitality and healthcare sectors

@@ -108,9 +108,9 @@ teaching_equipment:
 
 
 ## Associates & PhD Students
-{% include feature_row id="associates" %}
-
-
+<div class="associates_feature_row">
+  {% include feature_row id="associates" %}
+</div>
 
 ## Alumni
 ### Former PhD students

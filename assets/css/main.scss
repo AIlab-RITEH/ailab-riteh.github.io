@@ -269,17 +269,31 @@ pre code {
 	padding-right: 2em;
 }
 
-/* Feature row images - consistent sizing */
-.feature__item .archive__item-teaser {
-	max-width: 150px;
-	max-height: 150px;
-	object-fit: contain;
+/* Center wide layout content properly */
+.wide .page {
+	width: 100%;
 	margin: 0 auto;
-	display: block;
 }
 
+.wide .page__content {
+	margin: 0 auto;
+	max-width: 100%;
+}
+
+
 /* Ensure images maintain aspect ratio within bounding box */
-.feature__item .archive__item-teaser img {
+.project-preview_feature_row .archive__item-teaser img {
+	width: 250px;
+	height: 250px;
+	object-fit: contain;
+}
+@media (max-width: 600px) {
+	.project-preview_feature_row .archive__item-teaser img {
+		height: auto;
+	}
+}
+
+.associates_feature_row .archive__item-teaser img {
 	max-width: 150px;
 	max-height: 150px;
 	width: auto;

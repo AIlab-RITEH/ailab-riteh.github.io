@@ -17,21 +17,23 @@ feature_row:
     alt: "OPTIDERM"
     title: "OPTIDERM"
     excerpt: "Optical Diagnostics of Dermal Infections - bilateral research project (Croatia-Slovenia, 2023-2027)"
-    url: "/projects#optiderm"
+    url: "http://www.riteh.uniri.hr/znanost/istrazivanje-i-projekti/optiderm/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+
   - image_path: /assets/images/projects/radiologynet.jpg
     alt: "RadiologyNET"
     title: "RadiologyNET"
     excerpt: "Machine Learning for Knowledge Transfer in Medical Radiology (Croatian Science Foundation, 2021-2024)"
-    url: "/projects#radiologynet"
+    url: "http://www.riteh.uniri.hr/znanost/istrazivanje-i-projekti/radiologynet/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+
   - image_path: /assets/images/projects/tsaai.svg
     alt: "TSAAI"
     title: "TSAAI"
     excerpt: "Transversal Skills in Applied Artificial Intelligence (TSAAI), Erasmus+ 2021-1-ES01-KA220-HED-000030125 (2022-2025)"
-    url: "/projects#tsaai"
+    url: "https://www.tsaai.eu/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 ---
@@ -66,9 +68,12 @@ We collaborate with international research institutions and industry partners, t
 
 ## Featured Projects
 
-{% include feature_row %}
+<div class="project-preview_feature_row">
+  {% include feature_row %}
+</div>
 
----
+[Check out our other projects](/projects/){: .btn .btn--info .btn--large}
+{: .text-center}
 
 ## Join Us
 

@@ -1359,11 +1359,16 @@ pre code { background: none; padding: 0; }
 /* People page - wider layout */
 .wide .page__inner-wrap { max-width: 100%; padding-left: 2em; padding-right: 2em; }
 
-/* Feature row images - consistent sizing */
-.feature__item .archive__item-teaser { max-width: 150px; max-height: 150px; object-fit: contain; margin: 0 auto; display: block; }
+/* Center wide layout content properly */
+.wide .page { width: 100%; margin: 0 auto; }
+
+.wide .page__content { margin: 0 auto; max-width: 100%; }
 
 /* Ensure images maintain aspect ratio within bounding box */
-.feature__item .archive__item-teaser img { max-width: 150px; max-height: 150px; width: auto; height: auto; object-fit: contain; }
+.project-preview_feature_row .archive__item-teaser img { width: 250px; height: 250px; object-fit: contain; }
+
+@media (max-width: 600px) { .project-preview_feature_row .archive__item-teaser img { height: auto; } }
+.associates_feature_row .archive__item-teaser img { max-width: 150px; max-height: 150px; width: auto; height: auto; object-fit: contain; }
 
 .postdocs_feature_row .archive__item-teaser img { width: 250px; height: 250px; object-fit: cover; object-position: center; }
 

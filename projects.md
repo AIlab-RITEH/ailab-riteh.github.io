@@ -6,7 +6,7 @@ classes: wide
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/image6.png
+  overlay_image: /assets/images/people/stajduhar.jpg
 excerpt: "Our research spans various areas of artificial intelligence, with particular focus on medical imaging, computer vision, and smart systems."
 
 

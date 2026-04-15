@@ -280,6 +280,13 @@ pre code {
 	max-width: 100%;
 }
 
+.projects-featured {
+	.feature__wrapper {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+	}
+}
 
 /* Ensure images maintain aspect ratio within bounding box */
 .project-preview_feature_row .archive__item-teaser img {

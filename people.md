@@ -158,7 +158,6 @@ teaching_equipment:
 ## Alumni
 ### Former PhD students
 - **Dr. Arian Skoki** - Research and Teaching Assistant
-- Test test
 
 ### Former Postdoctoral Researchers
 - **Dr. Robert Baždarić** - Postdoctoral researcher

@@ -10,7 +10,23 @@ header:
 excerpt: "Our research spans various areas of artificial intelligence, with particular focus on medical imaging, computer vision, and smart systems."
 
 
-# Featured Ongoing Projects
+# Featured Ongoing Projects -- will be displayed in the "Ongoing projects" section with an accompaniying photo
+# Don't forget to upload the corresponding photo to /assets/images/projects/!
+# To add a new Featured Ongoing project, just copy-paste the template below and edit accordingly
+
+# <TEMPLATE BEGIN>
+# - image_path: /assets/images/projects/[your-project-image.png]
+#   alt: "[Project Acronym or Short Name]"
+#   title: "[Project Acronym or Short Name]"
+#   excerpt: |
+#     [Full Project Title]
+#     
+#     **Duration**: [start year]-[end year]  
+#     **Funding**: [Funding organization and grant number]
+#     
+#     [Click here to learn more]([project-url]){: .btn .btn--info}
+# </TEMPLATE END>
+
 featured_ongoing:
   - image_path: /assets/images/projects/optiderm.png
     alt: "OPTIDERM"
@@ -34,7 +50,23 @@ featured_ongoing:
       
       [Click here to learn more](https://tsaai.eu/){: .btn .btn--info}
 
-# Featured Completed Projects
+# Featured Completed Projects -- will be displayed in the "Completed projects" section, with an accompaniying photo
+# don't forget to upload the corresponding photo to /assets/images/projects/!
+# To add a new Featured Completed project, just copy-paste the template below and edit accordingly
+
+# <TEMPLATE BEGIN>
+# - image_path: /assets/images/projects/[your-project-image.png]
+#   alt: "[Project Acronym or Short Name]"
+#   title: "[Project Acronym or Short Name]"
+#   excerpt: |
+#     [Full Project Title]
+#     
+#     **Duration**: [start year]-[end year]  
+#     **Funding**: [Funding organization and grant number]
+#     
+#     [Click here to learn more]([project-url]){: .btn .btn--info}
+# </TEMPLATE END>
+
 featured_completed:
   - image_path: /assets/images/projects/radiologynet.jpg
     alt: "RadiologyNET"
@@ -59,6 +91,7 @@ featured_completed:
       [Click here to learn more](http://www.riteh.uniri.hr/znanost/istrazivanje-i-projekti/adria-smart-room/){: .btn .btn--info}
 
 
+# [YAML END]
 ---
 
 ## Ongoing Projects
@@ -82,6 +115,15 @@ featured_completed:
 <div class="projects-featured">
 {% include feature_row id="featured_completed" %}
 </div>
+
+<!-- Other Completed Projects (bullet list format) -->
+<!-- To add a new project here, just copy-paste the template below and edit accordingly -->
+<!-- <TEMPLATE BEGIN>
+- **[Project Title]** ([start year]-[end year])  
+  [Brief description]  
+  *Funding*: [Funding organization and details]
+  [Website]([project-url])
+</TEMPLATE END> -->
 
 - **Summer School on Image Processing (SSIP 2021)**  
   International summer school in image processing and computer vision  

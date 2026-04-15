@@ -11,7 +11,20 @@ header:
       url: "#about-our-research"
 excerpt: "Artificial Intelligence Laboratory @ Department of Computer Engineering, Faculty of Engineering, University of Rijeka"
 
-# Featured projects for homepage
+# Featured projects for homepage -- will be displayed in the "Featured Projects" section
+# Don't forget to upload the corresponding photo to /assets/images/projects/!
+# To add a new featured project, just copy-paste the template below and edit accordingly.
+
+# <TEMPLATE BEGIN>
+# - image_path: /assets/images/projects/[your-project-image.png]
+#   alt: "[Project Acronym]"
+#   title: "[Project Acronym]"
+#   excerpt: "[Brief description including funding and duration]"
+#   url: "[project-url]"
+#   btn_label: "Learn More"
+#   btn_class: "btn--primary"
+# </TEMPLATE END>
+
 feature_row:
   - image_path: /assets/images/projects/optiderm.png
     alt: "OPTIDERM"
@@ -36,6 +49,9 @@ feature_row:
     url: "https://www.tsaai.eu/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+
+
+# [YAML END]
 ---
 
 {: .text-center}
@@ -61,6 +77,7 @@ The Artificial Intelligence Laboratory at RITEH focuses on cutting-edge research
 - **Computer Vision**: Digital analysis and classification of visual signals, hyperspectral image analysis
 - **Deep Learning Applications**: Development of foundation models and neural networks for various applications
 - **Smart Systems**: AI-powered solutions for hospitality, autonomous systems, and real-world deployments
+<!-- If desired, add more info here... -->
 
 We collaborate with international research institutions and industry partners, translating fundamental research into practical applications that benefit healthcare, tourism, and other sectors.
 

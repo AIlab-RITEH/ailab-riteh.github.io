@@ -4,8 +4,23 @@ title: Our Team
 permalink: /people/
 
 
-# Faculty section
+# Faculty section -- Principal Investigators
+# [IMPORTANT!] Don't forget to upload the corresponding photo to /assets/images/people/!
+# To add a new faculty member, just copy-paste the template below and edit accordingly
 faculty:
+  # <TEMPLATE BEGIN>
+  # - image_path: /assets/images/people/[lastname.jpg]
+  #   alt: "[Prof. FirstName LastName]"
+  #   title: "[Prof. FirstName LastName, Ph.D.]"
+  #   excerpt: |
+  #     **[Position/Title]**
+  #     
+  #     Research: [Research interests]
+  #
+  #     [Scholar]([google-scholar-url])
+  #
+  #     [Email](mailto:[email]) • [Website]([personal-website]) • [+385 XX XXX XXX](tel:+385XXXXXXXXX)
+  # </TEMPLATE END>
   - image_path: /assets/images/people/stajduhar.jpg
     alt: "Prof. Ivan Štajduhar"
     title: "Prof. Ivan Štajduhar, Ph.D."
@@ -20,6 +35,17 @@ faculty:
 
 # Postdocs section
 postdocs:
+  # <TEMPLATE BEGIN>
+  # - image_path: /assets/images/people/[lastname.png]
+  #   alt: "Dr. [FirstName LastName]"
+  #   title: "Dr. [FirstName LastName]"
+  #   excerpt: |
+  #     **Postdoctoral Researcher**
+  #     
+  #     Research: [Research interests]
+  #     
+  #     [Email](mailto:[email]) • [Scholar]([google-scholar-url])
+  # </TEMPLATE END>
   - image_path: /assets/images/people/hrzic.png
     alt: "Dr. Franko Hržić"
     title: "Dr. Franko Hržić"
@@ -39,12 +65,22 @@ postdocs:
       
       [Email](mailto:mateja.napravnik@riteh.uniri.hr) • [Scholar](https://scholar.google.com/citations?user=kXNxetQAAAAJ&hl=en&oi=ao)
 
-# Associates section
+# Associates section -- PhD Students and Research Associates
+# [IMPORTANT!] Don't forget to upload the corresponding photo to /assets/images/people/!
+# to add a new associate, just copy-paste the template below and edit accordingly
+
 associates:
+  # <TEMPLATE BEGIN>
+  # - image_path: /assets/images/people/[lastname.png]
+  #   alt: "[FirstName LastName]"
+  #   title: "[FirstName LastName]"
+  #   excerpt: "[PhD Student / Research Associate / Master Student]"
+  # </TEMPLATE END>
   - image_path: /assets/images/people/krajci.png
     alt: "Mária Krajčí"
     title: "Mária Krajčí"
     excerpt: "PhD Student"
+  # Skoki is commented out - he will not be shown in the website
   # - image_path: /assets/images/people/skoki.png
   #   alt: "Arian Skoki"
   #   title: "Arian Skoki"
@@ -66,7 +102,9 @@ associates:
     title: "Luka Ilijanić"
     excerpt: "Research Associate"
 
-
+# This is a gallery with equipment. (docs and info about Minimal Mistakes galleries: https://mmistakes.github.io/minimal-mistakes/post%20formats/post-gallery/)
+# For simplicity, keep image_path and url the same -- they're both image paths. 
+# the difference between these two images is that one is a preview, and one will be shown in full display, "on click". 
 research_equipment:
   - image_path: /assets/images/equipment/maestral.jpg
     url: /assets/images/equipment/maestral.jpg
@@ -77,6 +115,7 @@ research_equipment:
     alt: "Široko Server"
     title: "Široko Server"
 
+# this is the same as research_equipment!
 teaching_equipment:
   - image_path: /assets/images/equipment/bonaca.jpg
     url: /assets/images/equipment/bonaca.jpg
@@ -95,6 +134,7 @@ teaching_equipment:
     alt: "Meta2"
     title: "Meta2"
 
+# [YAML END]
 ---
 
 ## Principal Investigators

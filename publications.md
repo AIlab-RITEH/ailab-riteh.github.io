@@ -9,10 +9,20 @@ header:
   overlay_image: /assets/images/ai-light-bg.jpg
 excerpt: "Highlighting our most impactful research in artificial intelligence, machine learning, and medical imaging."
 
-
+# [YAML END]
 ---
 
 ## Featured Publications
+
+<!-- just copy and paste the template below and adjust accordingly -->
+<!-- <TEMPLATE BEGIN>
+
+**[Publication Title]**  
+[Author 1], [Author 2], [Author 3]...  
+*[Journal title]* [volume number] ([issue]), [page range, e.g. 1379-1389] ([year])
+
+--- 
+</TEMPLATE END> -->
 
 **Rapid prediction of earthquake ground shaking intensity using raw waveform data and a convolutional neural network**  
 D Jozinović, A Lomax, I Štajduhar, A Michelini  

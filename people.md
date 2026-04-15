@@ -76,6 +76,10 @@ associates:
   #   title: "[FirstName LastName]"
   #   excerpt: "[PhD Student / Research Associate / Master Student]"
   # </TEMPLATE END>
+  - image_path: /assets/images/people/jelusic.jpg
+    alt: "Darijan Jelušić"
+    title: "Darijan Jelušić"
+    excerpt: "PhD Student"
   - image_path: /assets/images/people/krajci.png
     alt: "Mária Krajčí"
     title: "Mária Krajčí"
@@ -85,6 +89,10 @@ associates:
   #   alt: "Arian Skoki"
   #   title: "Arian Skoki"
   #   excerpt: "PhD Student"
+  - image_path: /assets/images/people/manojlovic.png
+    alt: "Teo Manojlović"
+    title: "Teo Manojlović"
+    excerpt: "PhD Student"
   - image_path: /assets/images/people/mikulic.png
     alt: "Mateo Mikulić"
     title: "Mateo Mikulić"
@@ -92,10 +100,6 @@ associates:
   - image_path: /assets/images/people/vicevic.png
     alt: "Dominik Vičević"
     title: "Dominik Vičević"
-    excerpt: "PhD Student"
-  - image_path: /assets/images/people/manojlovic.png
-    alt: "Teo Manojlović"
-    title: "Teo Manojlović"
     excerpt: "PhD Student"
   - image_path: /assets/images/people/ilijanic.png
     alt: "Luka Ilijanić"

@@ -72,7 +72,7 @@ featured_completed:
     alt: "RadiologyNET"
     title: "RadiologyNET"
     excerpt: |
-      Machine Learning for Knowledge Transfer in Medical Radiology
+      Machine Learning for Knowledge Transfer in Medical Radiology (PyTorch weights available [here](https://github.com/AIlab-RITEH/RadiologyNET-TL-models)).
       
       **Duration**: 2021-2024  
       **Funding**: Croatian Science Foundation (IP-2020-02-3770)
@@ -146,9 +146,15 @@ featured_completed:
 
 ## Open Datasets
 
-We contribute to open science by sharing datasets and code:
+We contribute to open science by sharing datasets:
 
 - **[kneeMRI Dataset](https://zenodo.org/records/14789903)**: Medical imaging dataset for knee MRI analysis
 - **[GRAZPEDWRI-DX Dataset](https://figshare.com/articles/dataset/GRAZPEDWRI-DX/14825193)**: Pediatric wrist trauma X-ray dataset
+
+## Open Models & Code
+
+We also share pretrained models and code:
+
+- **[RadiologyNET Weights for Transfer Learning](https://github.com/AIlab-RITEH/RadiologyNET-TL-models)**: PyTorch pretrained weights for transfer learning, trained on a large pseudo‑labelled medical imaging dataset
 
 *More code and resources available on [GitHub](https://github.com/AIlab-RITEH)*

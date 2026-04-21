@@ -176,10 +176,11 @@ teaching_equipment:
 
 ---
 
-## Collaborators
+## Collaborations
 
 We actively collaborate with researchers from:
 - [Medical University of Graz](https://www.medunigraz.at/en/) (MedUni Graz), Graz, Austria
+- [Faculty of Medicine](https://medri.uniri.hr/en/), Rijeka, Croatia
 - [Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/en/), Ljubljana, Slovenia
 - Various European institutions through Erasmus+ programs
 - Industry partners in hospitality and healthcare sectors

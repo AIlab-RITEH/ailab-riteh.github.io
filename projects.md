@@ -142,7 +142,6 @@ featured_completed:
   
 - **Summer School on Image Processing (SSIP 2021)**  
   International summer school in image processing and computer vision  
-  [Website](https://ssip2021.riteh.hr/)
 
 - **Hyperspectral Image Analysis Using Machine Learning** (2020-2022)  
   Bilateral project with the Medical Physics Group at the Faculty of Mathematics and Physics, Ljubljana, Slovenia

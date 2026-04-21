@@ -28,6 +28,17 @@ excerpt: "Our research spans various areas of artificial intelligence, with part
 # </TEMPLATE END>
 
 featured_ongoing:
+  - image_path: /assets/images/projects/radnet.png
+    alt: "RADNET"
+    title: "RADNET"
+    excerpt: |
+      Building multimodal foundation models for medical radiology
+      
+      **Duration**: 2025-2029  
+      **Funding**: UNIRI projects for materially demanding research (uniri-mzi-25-17)
+      
+      [Click here to learn more](https://riteh.uniri.hr/en/science/research-and-projects/building-multimodal-foundation-models-for-medical-radiology/){: .btn .btn--info}
+    
   - image_path: /assets/images/projects/optiderm.png
     alt: "OPTIDERM"
     title: "OPTIDERM"
@@ -37,7 +48,7 @@ featured_ongoing:
       **Duration**: 2023-2027  
       **Funding**: Croatian Science Foundation (IP-2022-10-2433) & Slovenian Research Agency (N3-0348)
       
-      [Click here to learn more](http://www.riteh.uniri.hr/znanost/istrazivanje-i-projekti/optiderm/){: .btn .btn--info}
+      [Click here to learn more](https://www.riteh.uniri.hr/znanost/istrazivanje-i-projekti/optiderm/){: .btn .btn--info}
   
 
 # Featured Completed Projects -- will be displayed in the "Completed projects" section, with an accompaniying photo

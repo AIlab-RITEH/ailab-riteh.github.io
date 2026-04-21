@@ -113,4 +113,4 @@ Vukovarska 58, 51000 Rijeka, Croatia
 **Personal Page**: [istajduh.github.io](https://istajduh.github.io/)
 
 **GitHub**: [@AIlab-RITEH](https://github.com/AIlab-RITEH)  
-**Official Page**: [RITEH AILab](https://riteh.uniri.hr/en/organisation/departments/department-computer-engineering/ailab-2)
+**LinkedIn Page**: [AILab](https://www.linkedin.com/company/faculty-of-engineering-riteh-university-of-rijeka/)

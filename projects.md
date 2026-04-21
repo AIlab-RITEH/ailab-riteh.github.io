@@ -108,7 +108,7 @@ featured_completed:
 
 ## Ongoing Projects
 
-<div class="projects-featured">
+<div class="project-preview_feature_row projects-featured">
 {% include feature_row id="featured_ongoing" %}
 </div>
 
@@ -120,7 +120,7 @@ featured_completed:
 
 ## Completed Projects
 
-<div class="projects-featured">
+<div class="project-preview_feature_row projects-featured">
 {% include feature_row id="featured_completed" %}
 </div>
 

@@ -133,10 +133,13 @@ featured_completed:
   [Website]([project-url])
 </TEMPLATE END> -->
 
-- **Building a Multimodal Foundation Model for Medical Radiology** (2024)  
-  Development of cutting-edge multimodal foundation models for medical radiology  
+- **Building a Multimodal Foundation Model for Medical Radiology** (2024-2025)
+  Development of cutting-edge multimodal foundation models for medical radiology
   *Funding*: University of Rijeka grant (uniri-iskusni-tehnic-23-12 2947)
 
+- **Storage and visualization of optical biomedical data** (2023-2024)
+  Bilateral project with the Medical Physics Group at the Faculty of Mathematics and Physics, Ljubljana, Slovenia
+  
 - **Summer School on Image Processing (SSIP 2021)**  
   International summer school in image processing and computer vision  
   [Website](https://ssip2021.riteh.hr/)

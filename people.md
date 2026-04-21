@@ -182,5 +182,6 @@ We actively collaborate with researchers from:
 - [Medical University of Graz](https://www.medunigraz.at/en/) (MedUni Graz), Graz, Austria
 - [Faculty of Medicine](https://medri.uniri.hr/en/), Rijeka, Croatia
 - [Faculty of Mathematics and Physics](https://www.fmf.uni-lj.si/en/), Ljubljana, Slovenia
+- [Jožef Stefan Institute](https://www.ijs.si/ijsw/V001/JSI) (JSI), Ljubljana, Slovenia
 - Various European institutions through Erasmus+ programs
 - Industry partners in hospitality and healthcare sectors

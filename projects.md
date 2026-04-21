@@ -116,10 +116,6 @@ featured_completed:
   AI-powered solutions for the hospitality industry  
   *Funding*: Ministry of Regional Development and EU Funds (IP.1.1.03.0160)
 
-- **Building a Multimodal Foundation Model for Medical Radiology** (2024)  
-  Development of cutting-edge multimodal foundation models for medical radiology  
-  *Funding*: University of Rijeka grant (uniri-iskusni-tehnic-23-12 2947)
-
 ---
 
 ## Completed Projects
@@ -137,6 +133,10 @@ featured_completed:
   [Website]([project-url])
 </TEMPLATE END> -->
 
+- **Building a Multimodal Foundation Model for Medical Radiology** (2024)  
+  Development of cutting-edge multimodal foundation models for medical radiology  
+  *Funding*: University of Rijeka grant (uniri-iskusni-tehnic-23-12 2947)
+
 - **Summer School on Image Processing (SSIP 2021)**  
   International summer school in image processing and computer vision  
   [Website](https://ssip2021.riteh.hr/)
@@ -147,9 +147,6 @@ featured_completed:
 - **Development of Machine Learning Techniques for Medical Images** (2019-2023)  
   University of Rijeka grant (uniri-tehnic-18-15) focused on illness and injury detection in medical images  
   [Project Details](http://www.riteh.uniri.hr/media/filer_public/c9/0f/c90f3dbc-b1f2-4afc-9d19-e94be921e8e3/uniri-tehnic-18-15.pdf)
-
-- **Computer-Aided Digital Analysis and Classification of Signals** (2019-2023)  
-  University of Rijeka grant (uniri-tehnic-18-17)
 
 - **Thorax Motion Supervision in Radiotherapy** (2018-2019)  
   Bilateral project using machine learning techniques in cooperation with Ljubljana, Slovenia

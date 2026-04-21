@@ -39,16 +39,6 @@ featured_ongoing:
       
       [Click here to learn more](http://www.riteh.uniri.hr/znanost/istrazivanje-i-projekti/optiderm/){: .btn .btn--info}
   
-  - image_path: /assets/images/projects/tsaai.svg
-    alt: "TSAAI"
-    title: "TSAAI"
-    excerpt: |
-      Transversal Skills in Applied Artificial Intelligence
-      
-      **Duration**: 2022-2025  
-      **Funding**: Erasmus+ 2021-1-ES01-KA220-HED-000030125
-      
-      [Click here to learn more](https://tsaai.eu/){: .btn .btn--info}
 
 # Featured Completed Projects -- will be displayed in the "Completed projects" section, with an accompaniying photo
 # don't forget to upload the corresponding photo to /assets/images/projects/!
@@ -68,6 +58,17 @@ featured_ongoing:
 # </TEMPLATE END>
 
 featured_completed:
+  - image_path: /assets/images/projects/tsaai.svg
+    alt: "TSAAI"
+    title: "TSAAI"
+    excerpt: |
+      Transversal Skills in Applied Artificial Intelligence
+      
+      **Duration**: 2022-2025  
+      **Funding**: Erasmus+ 2021-1-ES01-KA220-HED-000030125
+      
+      [Click here to learn more](https://tsaai.eu/){: .btn .btn--info}
+
   - image_path: /assets/images/projects/radiologynet.jpg
     alt: "RadiologyNET"
     title: "RadiologyNET"

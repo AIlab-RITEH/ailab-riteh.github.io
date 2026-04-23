@@ -170,7 +170,7 @@ We also share pretrained models and code:
 
 *More code and resources available on [GitHub](https://github.com/AIlab-RITEH)*
 
-## Research Equpipment
+## Computing Infrastructure
 - **[HPC GPU workstation Maestral](https://www.croris.hr/oprema/oprema/2713)**
 - **[NAS Široko](https://www.croris.hr/oprema/oprema/2736)**
-- **[GPU workstation Bonaca]**
+- GPU workstation Bonaca

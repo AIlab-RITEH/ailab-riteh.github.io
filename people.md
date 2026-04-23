@@ -141,14 +141,10 @@ teaching_equipment:
 # [YAML END]
 ---
 
-## Principal Investigators
+## Independent Researchers
 <div class="pis_feature_row">
 {% include feature_row id="faculty" type="left" %}
 </div>
-
----
-
-## Postdoctoral Researchers
 <div class="postdocs_feature_row">
   {% include feature_row id="postdocs" type="left" %}
 </div>

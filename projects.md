@@ -169,3 +169,8 @@ We also share pretrained models and code:
 - **[RadiologyNET Weights for Transfer Learning](https://github.com/AIlab-RITEH/RadiologyNET-TL-models)**: PyTorch pretrained weights for transfer learning, trained on a large pseudo‑labelled medical imaging dataset
 
 *More code and resources available on [GitHub](https://github.com/AIlab-RITEH)*
+
+## Research Equpipment
+- **[HPC GPU workstation Maestral](https://www.croris.hr/oprema/oprema/2713)**
+- **[NAS Široko](https://www.croris.hr/oprema/oprema/2736)**
+- **[GPU workstation Bonaca]**

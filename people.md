@@ -168,14 +168,6 @@ teaching_equipment:
 
 ---
 
-## Research Equpipment
-{% include gallery id="research_equipment" %}
-
-## Teaching Equpipment
-{% include gallery id="teaching_equipment" %}
-
----
-
 ## Collaborations
 
 We actively collaborate with researchers from:

@@ -29,9 +29,7 @@ faculty:
       
       Research: Machine Learning, Medical Image Analysis, AI
 
-      [Scholar](https://scholar.google.com/citations?user=xBWDZPYAAAAJ&hl=en&oi=ao)
-
-      [Email](mailto:ivan.stajduhar@uniri.hr) • [Website](https://istajduh.github.io/) • [+385 51 651 448](tel:+38551651448)
+      [Email](mailto:ivan.stajduhar@uniri.hr) • [Scholar](https://scholar.google.com/citations?user=xBWDZPYAAAAJ&hl=en&oi=ao) • [Website](https://istajduh.github.io/) • +385 51 651 448
 
 # Postdocs section
 postdocs:
@@ -47,8 +45,8 @@ postdocs:
   #     [Email](mailto:[email]) • [Scholar]([google-scholar-url])
   # </TEMPLATE END>
   - image_path: /assets/images/people/hrzic.png
-    alt: "Dr. Franko Hržić"
-    title: "Dr. Franko Hržić"
+    alt: "Franko Hržić, Ph.D."
+    title: "Franko Hržić, Ph.D."
     excerpt: |
       **Postdoctoral Researcher**
       
@@ -56,8 +54,8 @@ postdocs:
       
       [Email](mailto:franko.hrzic@riteh.uniri.hr) • [Scholar](https://scholar.google.com/citations?user=Zs4lZCoAAAAJ&hl=en&oi=ao)
   - image_path: /assets/images/people/napravnik.png
-    alt: "Dr. Mateja Napravnik"
-    title: "Dr. Mateja Napravnik"
+    alt: "Mateja Napravnik, Ph.D."
+    title: "Mateja Napravnik, Ph.D."
     excerpt: |
       **Postdoctoral Researcher**
       

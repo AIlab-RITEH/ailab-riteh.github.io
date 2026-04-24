@@ -74,7 +74,7 @@
 .person-photo {
 	width: 180px;
 	height: 180px;
-	object-fit: cover;
+	object-fit: contain;
 	border-radius: 8px;
 	flex-shrink: 0;
 }

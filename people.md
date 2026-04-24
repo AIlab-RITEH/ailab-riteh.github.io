@@ -21,7 +21,7 @@ faculty:
   #
   #     [Email](mailto:[email]) • [Website]([personal-website]) • [+385 XX XXX XXX](tel:+385XXXXXXXXX)
   # </TEMPLATE END>
-  - image_path: /assets/images/people/stajduhar.jpg
+  - image_path: /assets/images/people/stajduhar.png
     alt: "Prof. Ivan Štajduhar"
     title: "Prof. Ivan Štajduhar, Ph.D."
     excerpt: |

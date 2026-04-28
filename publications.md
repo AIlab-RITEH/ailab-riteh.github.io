@@ -91,6 +91,18 @@ T Till, M Scherkl, N Stranger, G Singer, S Hankel, C Flucher, **F Hržić**, **I
 
 ---
 
+**[Intra-domain and cross-domain transfer learning for time series data – How transferable are the features?](https://doi.org/10.1016/j.knosys.2021.107976)**  
+E Otović, M Njirjak, D Jozinović, G Mauša, A Michelini, **I Štajduhar**  
+*Knowledge-Based Systems* 239, 107976 (2022) 
+
+---
+
+**[Transfer learning: Improving neural network based prediction of earthquake ground shaking for an area with insufficient training data](https://doi.org/10.1093/gji/ggab488)**  
+D Jozinović, A Lomax, **I Štajduhar**, A Michelini  
+*Geophysical Journal International* 229, Issue 1 (2022) 
+
+---
+
 **[The augmented radiologist: artificial intelligence in the practice of radiology](https://doi.org/10.1007/s00247-021-05177-7)**  
 E Sorantin, MG Grasser, A Hemmelmayr, S Tschauner, **F Hržić**, V Weiss, et al.  
 *Pediatric Radiology* 52 (11), 2074-2086 (2022)

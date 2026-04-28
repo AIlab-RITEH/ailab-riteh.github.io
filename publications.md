@@ -73,21 +73,9 @@ T Till, M Scherkl, N Stranger, G Singer, S Hankel, C Flucher, **F Hržić**, **I
 
 ---
 
-**[]()**  
-...  
-*Journal of ...* ... (2025) 
-
----
-
 **[Rapid extraction of skin physiological parameters from hyperspectral images using machine learning](https://doi.org/10.1007/s10489-022-04327-0)**  
 **T Manojlović**, T Tomanič, **I Štajduhar**, M. Milanič  
 *Applied Intelligence* 53, 16519–16539 (2023) 
-
----
-
-**[]()**  
-...  
-*Journal of ...* ... (2025) 
 
 ---
 
@@ -130,6 +118,12 @@ D Jozinović, A Lomax, **I Štajduhar**, A Michelini
 **[XAOM: A method for automatic alignment and orientation of radiographs for computer-aided medical diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0010482521000949)**  
 **F Hržić**, S Tschauner, E Sorantin, **I Štajduhar**  
 *Computers in Biology and Medicine* 132, 104300 (2021)
+
+---
+
+**[Cast suppression in radiographs by generative adversarial networks]()**  
+**F Hržić**, I Žužić, S Tschauner, **I Štajduhar**  
+*Journal of the American Medical Informatics Association* 28 (12) (2021) 
 
 ---
 

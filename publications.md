@@ -121,9 +121,15 @@ D Jozinović, A Lomax, **I Štajduhar**, A Michelini
 
 ---
 
-**[Cast suppression in radiographs by generative adversarial networks]()**  
+**[Cast suppression in radiographs by generative adversarial networks](https://doi.org/10.1093/jamia/ocab192)**  
 **F Hržić**, I Žužić, S Tschauner, **I Štajduhar**  
 *Journal of the American Medical Informatics Association* 28 (12) (2021) 
+
+---
+
+**[Deep Semi-Supervised Algorithm for Learning Cluster-Oriented Representations of Medical Images Using Partially Observable DICOM Tags and Images](https://doi.org/10.3390/diagnostics11101920)**  
+**T Manojlović**, **I Štajduhar**  
+*Diagnostics* 11 (10), 1920 (2021) 
 
 ---
 
@@ -142,6 +148,12 @@ B Petrovska, E Zdravevski, P Lameski, R Corizzo, **I Štajduhar**, J Lerga
 **[Rapid prediction of earthquake ground shaking intensity using raw waveform data and a convolutional neural network](https://doi.org/10.1093/gji/ggaa233)**  
 D Jozinović, A Lomax, **I Štajduhar**, A Michelini  
 *Geophysical Journal International* 222 (2), 1379-1389 (2020)
+
+---
+
+**[Automatic Annotation of Narrative Radiology Reports](https://doi.org/10.3390/diagnostics10040196)**  
+I Krsnik, G Glavaš, M Krsnik, D Miletić, **I Štajduhar**  
+*Diagnostics* 10 (4), 196 (2020)
 
 ---
 

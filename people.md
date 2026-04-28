@@ -22,14 +22,24 @@ faculty:
   #     [Email](mailto:[email]) • [Website]([personal-website]) • [+385 XX XXX XXX](tel:+385XXXXXXXXX)
   # </TEMPLATE END>
   - image_path: /assets/images/people/stajduhar.png
-    alt: "Prof. Ivan Štajduhar"
-    title: "Prof. Ivan Štajduhar, Ph.D."
+    alt: "Ivan Štajduhar"
+    title: "Ivan Štajduhar, Ph.D."
     excerpt: |
       **Professor / Lab Head**
       
       Research: Machine Learning, Medical Image Analysis, AI
 
       [Email](mailto:ivan.stajduhar@uniri.hr) • [Scholar](https://scholar.google.com/citations?user=xBWDZPYAAAAJ&hl=en&oi=ao) • [Website](https://istajduh.github.io/) • +385 51 651 448
+
+  - image_path: /assets/images/people/hrzic.png
+    alt: "Franko Hržić, Ph.D."
+    title: "Franko Hržić, Ph.D."
+    excerpt: |
+      **Assistant professor**
+      
+      Research: Computer Vision, Deep Learning, Medical Imaging
+      
+      [Email](mailto:franko.hrzic@riteh.uniri.hr) • [Scholar](https://scholar.google.com/citations?user=Zs4lZCoAAAAJ&hl=en&oi=ao)
 
 # Postdocs section
 postdocs:
@@ -44,15 +54,6 @@ postdocs:
   #     
   #     [Email](mailto:[email]) • [Scholar]([google-scholar-url])
   # </TEMPLATE END>
-  - image_path: /assets/images/people/hrzic.png
-    alt: "Franko Hržić, Ph.D."
-    title: "Franko Hržić, Ph.D."
-    excerpt: |
-      **Postdoctoral Researcher**
-      
-      Research: Computer Vision, Deep Learning, Medical Imaging
-      
-      [Email](mailto:franko.hrzic@riteh.uniri.hr) • [Scholar](https://scholar.google.com/citations?user=Zs4lZCoAAAAJ&hl=en&oi=ao)
   - image_path: /assets/images/people/napravnik.png
     alt: "Mateja Napravnik, Ph.D."
     title: "Mateja Napravnik, Ph.D."

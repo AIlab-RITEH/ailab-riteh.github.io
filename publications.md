@@ -43,6 +43,12 @@ T Till, M Scherkl, N Stranger, G Singer, S Hankel, C Flucher, **F Hržić**, **I
 
 ---
 
+**[Robust estimation of skin physiological parameters from hyperspectral images using Bayesian neural networks](https://doi.org/10.1117/1.JBO.30.1.016004)**  
+**T Manojlović**, T Tomanič, **I Štajduhar**, M Milanič  
+*Journal of Biomedical Optics* 30(1), 016004 (2025) 
+
+---
+
 **[The augmented radiologist: artificial intelligence in the practice of radiology](https://doi.org/10.1007/s00247-021-05177-7)**  
 E Sorantin, MG Grasser, A Hemmelmayr, S Tschauner, **F Hržić**, V Weiss, et al.  
 *Pediatric Radiology* 52 (11), 2074-2086 (2022)
@@ -68,7 +74,7 @@ D Jozinović, A Lomax, **I Štajduhar**, A Michelini
 ---
 
 **[XAOM: A method for automatic alignment and orientation of radiographs for computer-aided medical diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0010482521000949)**  
-**F Hržić**, S Tschauner, E Sorantin, **I Štajduhar ** 
+**F Hržić**, S Tschauner, E Sorantin, **I Štajduhar**  
 *Computers in Biology and Medicine* 132, 104300 (2021)
 
 ---

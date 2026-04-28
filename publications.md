@@ -49,6 +49,48 @@ T Till, M Scherkl, N Stranger, G Singer, S Hankel, C Flucher, **F Hržić**, **I
 
 ---
 
+**[Enhancing Biophysical Muscle Fatigue Model in the Dynamic Context of Soccer](https://doi.org/10.3390/s24248128)**  
+**A Skoki**, S Ivić, S Ljubic, J Lerga, **I Štajduhar**  
+*Sensors* 24(24), 8128 (2024) 
+
+---
+
+**[Balancing Performance and Interpretability in Medical Image Analysis: Case study of Osteopenia](https://doi.org/10.1007/s10278-024-01194-8)**  
+**M Mikulić**, **D Vičević**, E Nagy, **M Napravnik**, **I Štajduhar**, S Tschauner, **F Hržić**  
+*Journal of Imaging Informatics in Medicine* 1-14 (2024) 
+
+---
+
+**[Building RadiologyNET: an unsupervised approach to annotating a large-scale multimodal medical database](https://doi.org/10.1186/s13040-024-00373-1)**  
+**M Napravnik**, **F Hržić**, S Tschauner, **I Štajduhar**  
+*BioData Mining* 17(1), 22 (2024) 
+
+---
+
+**[Building Individual Player Performance Profiles According to Pre-Game Expectations and Goal Difference in Soccer]()**  
+**A Skoki**, B Gašparović, S Ivić, J Lerga, **I Štajduhar**  
+*Sensors* 24(5), 1700 (2024) 
+
+---
+
+**[]()**  
+...  
+*Journal of ...* ... (2025) 
+
+---
+
+**[Rapid extraction of skin physiological parameters from hyperspectral images using machine learning](https://doi.org/10.1007/s10489-022-04327-0)**  
+**T Manojlović**, T Tomanič, **I Štajduhar**, M. Milanič  
+*Applied Intelligence* 53, 16519–16539 (2023) 
+
+---
+
+**[]()**  
+...  
+*Journal of ...* ... (2025) 
+
+---
+
 **[The augmented radiologist: artificial intelligence in the practice of radiology](https://doi.org/10.1007/s00247-021-05177-7)**  
 E Sorantin, MG Grasser, A Hemmelmayr, S Tschauner, **F Hržić**, V Weiss, et al.  
 *Pediatric Radiology* 52 (11), 2074-2086 (2022)

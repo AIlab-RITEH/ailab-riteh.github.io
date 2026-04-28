@@ -109,12 +109,6 @@ E Nagy, M Janisch, **F Hržić**, E Sorantin, S Tschauner
 
 ---
 
-**[Transfer learning: Improving neural network based prediction of earthquake ground shaking for an area with insufficient training data](https://doi.org/10.1093/gji/ggab488)**  
-D Jozinović, A Lomax, **I Štajduhar**, A Michelini  
-*Geophysical Journal International* 229 (1), 704-718 (2022)
-
----
-
 **[XAOM: A method for automatic alignment and orientation of radiographs for computer-aided medical diagnosis](https://www.sciencedirect.com/science/article/abs/pii/S0010482521000949)**  
 **F Hržić**, S Tschauner, E Sorantin, **I Štajduhar**  
 *Computers in Biology and Medicine* 132, 104300 (2021)

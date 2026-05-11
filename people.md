@@ -154,6 +154,9 @@ teaching_equipment:
   {% include feature_row id="associates" %}
 </div>
 
+## Interns
+- **Gaston Rouxel**, ENSICAEN
+
 ## Alumni
 ### Former PhD students
 - **Dr. Arian Skoki** - Research and Teaching Assistant
